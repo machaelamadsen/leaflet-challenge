@@ -1,1 +1,1 @@
-# leaflet-challenge
+In this challenge I used data from the USGS GeoJSON Feed. My map includes all earthquakes that occurred over the past seven days. Using javascript I created a map that marks each earthquake. The markers color is based on depth and the size is based on magnitude. When you click on a marker you will be able to see the magnitude, depth, and coordinates for the earthquake. 
